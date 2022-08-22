@@ -15,4 +15,4 @@ Team Members:
 Pitch Presenter: Esra Yeniaras
 
 ABOUT OUR SOLUTION:
-In this repository we implemented a random number generator using boson sampling. We run the code in Qbraid platform and in the Jupyter notebook platform. Run time measurements is also calculated by the code.  We compare the run-times results.
+In this repository we implemented a random number generator using boson sampling. We run the code in Qbraid platform and in the Jupyter notebook platform. Run time measurements is also calculated by the code.  We made a comparative analysis of the runtime results in both platforms. We have also analyzed the randomness of the outcome sequence using some known randomness tests.

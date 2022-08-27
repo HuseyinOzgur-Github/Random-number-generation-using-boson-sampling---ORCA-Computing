@@ -6,7 +6,7 @@ Team Members:
 1. Esra Yeniaras-->   Discord: esra#9915                   Github: cryptoarith      e-mail: esramath@gmail.com
 2. Huseyin Ozgur-->   Discord:                            Github :                e-mail: ozgurhuseyin.hc@gmail.com
 3. Artem Koryukin-->  Discord: Artem K#9084                Github : artm88          e-mail: akoryukin@gmail.com
-4. Hossein Khalili--> Discord: Hossein Khalili#3046        Github: [h-khalili69](https://github.com/h-khalili69)      e-mail: h.khalili69@gmail.com
+4. Hossein Khalili--> Discord: [Hossein Khalili#3046](https://discordapp.com/users/767230388799406100/)        Github: [h-khalili69](https://github.com/h-khalili69)      e-mail: h.khalili69@gmail.com
 5. Sukhsagar Dubey--> *Discord:      *  Github:    *e-mail:
 6. Rohit P. Thampy---> *Discord       *Github:     *e-mail:
 

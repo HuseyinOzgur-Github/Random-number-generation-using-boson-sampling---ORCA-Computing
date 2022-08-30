@@ -10,7 +10,7 @@ Team Members:
 5. Sukhsagar Dubey--> *Discord:      *  Github:    *e-mail:
 6. Rohit P. Thampy---> *Discord       *Github:     *e-mail:
 
-
+Pitch Presenter: Esra Yeniaras
 
 ABOUT OUR SOLUTION:
 In this repository we implemented a random number generator using boson sampling.
